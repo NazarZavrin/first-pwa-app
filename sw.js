@@ -8,9 +8,10 @@ const assetUrls = [
   '/offline.html'
 ]
 
-self.addEventListener('install', async event => {
-  const cache = await caches.open(staticCacheName)
-  await cache.addAll(assetUrls)
+self.addEventListener('install', event => {
+  caches.open(staticCacheName).then(cache => cache.addAll(assetUrls));
+  /* const cache = await caches.open(staticCacheName)
+  await cache.addAll(assetUrls) */
 })
 /*
 self.addEventListener('activate', async event => {
@@ -27,8 +28,6 @@ self.addEventListener('fetch', event => {
   const {request} = event
 
   const url = new URL(request.url)
-  console.log(url.origin);
-  console.log(location.origin);
   if (url.origin === location.origin) {
     event.respondWith(cacheFirst(request))
   } else {

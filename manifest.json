@@ -7,7 +7,7 @@
     "orientation": "any",
     "scope": "/",
     "short_name": "Drag and drop",
-    "start_url": "https://nazarzavrin-drag-and-drop.netlify.app/",
+    "start_url": "https://nazarzavrin.github.io/first-pwa-app/",
     "theme_color": "#333333",
     "categories": [],
     "screenshots": [],
