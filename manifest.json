@@ -1,0 +1,200 @@
+{
+    "background_color": "#ffffff",
+    "description": "Drag the box and drop it in the hollow",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Drag and drop",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Drag and drop",
+    "start_url": "https://nazarzavrin-drag-and-drop.netlify.app/",
+    "theme_color": "#333333",
+    "categories": [],
+    "screenshots": [],
+    "shortcuts": [],
+    "icons": [
+        {
+            "src": "icons/16x16.png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "icons/20x20.png",
+            "sizes": "20x20"
+        },{
+            "src": "icons/24x24.png",
+            "sizes": "24x24"
+        },{
+            "src": "icons/29x29.png",
+            "sizes": "29x29"
+        },{
+            "src": "icons/30x30.png",
+            "sizes": "30x30"
+        },{
+            "src": "icons/32x32.png",
+            "sizes": "32x32"
+        },{
+            "src": "icons/36x36.png",
+            "sizes": "36x36"
+        },{
+            "src": "icons/40x40.png",
+            "sizes": "40x40"
+        },{
+            "src": "icons/44x44.png",
+            "sizes": "44x44"
+        },{
+            "src": "icons/48x48.png",
+            "sizes": "48x48"
+        },{
+            "src": "icons/50x50.png",
+            "sizes": "50x50"
+        },{
+            "src": "icons/55x55.png",
+            "sizes": "55x55"
+        },{
+            "src": "icons/57x57.png",
+            "sizes": "57x57"
+        },{
+            "src": "icons/58x58.png",
+            "sizes": "58x58"
+        },{
+            "src": "icons/60x60.png",
+            "sizes": "60x60"
+        },{
+            "src": "icons/63x63.png",
+            "sizes": "63x63"
+        },{
+            "src": "icons/64x64.png",
+            "sizes": "64x64"
+        },{
+            "src": "icons/66x66.png",
+            "sizes": "66x66"
+        },{
+            "src": "icons/71x71.png",
+            "sizes": "71x71"
+        },{
+            "src": "icons/72x72.png",
+            "sizes": "72x72"
+        },{
+            "src": "icons/75x75.png",
+            "sizes": "75x75"
+        },{
+            "src": "icons/75x75.png",
+            "sizes": "76x76"
+        },{
+            "src": "icons/80x80.png",
+            "sizes": "80x80"
+        },{
+            "src": "icons/87x87.png",
+            "sizes": "87x87"
+        },{
+            "src": "icons/88x88.png",
+            "sizes": "88x88"
+        },{
+            "src": "icons/89x89.png",
+            "sizes": "89x89"
+        },{
+            "src": "icons/96x96.png",
+            "sizes": "96x96"
+        },{
+            "src": "icons/100x100.png",
+            "sizes": "100x100"
+        },{
+            "src": "icons/107x107.png",
+            "sizes": "107x107"
+        },{
+            "src": "icons/114x114.png",
+            "sizes": "114x114"
+        },{
+            "src": "icons/120x120.png",
+            "sizes": "120x120"
+        },{
+            "src": "icons/128x128.png",
+            "sizes": "128x128"
+        },{
+            "src": "icons/142x142.png",
+            "sizes": "142x142"
+        },{
+            "src": "icons/144x144.png",
+            "sizes": "144x144"
+        },{
+            "src": "icons/150x150.png",
+            "sizes": "150x150"
+        },{
+            "src": "icons/152x152.png",
+            "sizes": "152x152"
+        },{
+            "src": "icons/167x167.png",
+            "sizes": "167x167"
+        },{
+            "src": "icons/176x176.png",
+            "sizes": "176x176"
+        },{
+            "src": "icons/180x180.png",
+            "sizes": "180x180"
+        },{
+            "src": "icons/188x188.png",
+            "sizes": "188x188"
+        },{
+            "src": "icons/192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/200x200.png",
+            "sizes": "200x200"
+        },{
+            "src": "icons/256x256.png",
+            "sizes": "256x256"
+        },{
+            "src": "icons/284x284.png",
+            "sizes": "284x284"
+        },{
+            "src": "icons/300x300.png",
+            "sizes": "300x300"
+        },{
+            "src": "icons/310x150.png",
+            "sizes": "310x150"
+        },{
+            "src": "icons/388x188.png",
+            "sizes": "388x188"
+        },{
+            "src": "icons/388x388.png",
+            "sizes": "388x388"
+        },{
+            "src": "icons/465x255.png",
+            "sizes": "465x255"
+        },{
+            "src": "icons/465x465.png",
+            "sizes": "465x465"
+        },{
+            "src": "icons/512x512.png",
+            "sizes": "512x512"
+        },{
+            "src": "icons/600x600.png",
+            "sizes": "600x600"
+        },{
+            "src": "icons/620x300.png",
+            "sizes": "620x300"
+        },{
+            "src": "icons/620x620.png",
+            "sizes": "620x620"
+        },{
+            "src": "icons/775x335.png",
+            "sizes": "775x335"
+        },{
+            "src": "icons/930x450.png",
+            "sizes": "930x450"
+        },{
+            "src": "icons/1024x1024.png",
+            "sizes": "1024x1024"
+        },{
+            "src": "icons/1240x600.png",
+            "sizes": "1240x600"
+        },{
+            "src": "icons/1240x1240.png",
+            "sizes": "1240x1240"
+        },{
+            "src": "icons/2480x1200.png",
+            "sizes": "2480x1200"
+        }
+    ]
+}
